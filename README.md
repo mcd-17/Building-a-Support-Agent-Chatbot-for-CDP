@@ -27,8 +27,7 @@ The following official documentation is used to retrieve information:
 ## Installation Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/kaif-g/chatbot_project.git
-   cd chatbot_project
+  https://github.com/mcd-17/Building-a-Support-Agent-Chatbot-for-CDP.git
 2. Install the required dependencies:
    pip install -r requirements.txt
 3. Run the Flask app:
