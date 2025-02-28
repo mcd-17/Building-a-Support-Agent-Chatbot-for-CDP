@@ -3,6 +3,10 @@
 ## Project Overview
 This project is a chatbot that helps users find answers to "how-to" questions related to four Customer Data Platforms (CDPs): Segment, mParticle, Lytics, and Zeotap. The chatbot extracts relevant information from the official documentation of these platforms and provides the user with step-by-step guidance.
 
+
+![WhatsApp Image 2025-02-28 at 17 00 46_022054df](https://github.com/user-attachments/assets/1a530b25-e5c0-4523-acdc-61589ad13fb7)
+
+
 ## Features
 - **Answer "How-to" Questions**: The chatbot can respond to user queries about how to perform tasks in Segment, mParticle, Lytics, and Zeotap.
 - **Extract Information from Documentation**: The chatbot can navigate through the official documentation of each platform and extract relevant instructions.
